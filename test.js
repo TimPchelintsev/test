@@ -1,3 +1,3 @@
-export default (name) => {
+module.exports = (name) => {
   return 'Hello ' + name
 }
